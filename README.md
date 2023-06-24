@@ -1,6 +1,4 @@
 ![image](https://github.com/oulaydi/oulaydi/assets/130802700/d1241309-b5c2-4d7b-bf87-6e6a98fe92d6)
-
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAFdqmlfM6Q&#x2F;view?utm_content=DAFdqmlfM6Q&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Bannière LinkedIn Technologie Abstraite en Bleu et Blanc</a> par Oussama Oulaydi
 <h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/raw/main/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Oussma Oulaydi</h1>
 <h3 align="center">A passionate ALX software engineering Student from Morocco</h3>
 
