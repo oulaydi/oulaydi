@@ -1,5 +1,4 @@
-![image](https://github.com/oulaydi/oulaydi/assets/130802700/d1241309-b5c2-4d7b-bf87-6e6a98fe92d6)
-<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/raw/main/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Oussma Oulaydi</h1>
+<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px"> I'm Oussma Oulaydi</h1>
 <h3 align="center">A passionate ALX software engineering Student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oulaydi&label=Profile%20views&color=0e75b6&style=flat" alt="oulaydi" /> </p>
@@ -31,3 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oulaydi&show_icons=true&locale=en" alt="oulaydi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oulaydi&" alt="oulaydi" /></p>
+
