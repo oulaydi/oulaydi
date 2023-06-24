@@ -30,5 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oulaydi&show_icons=true&locale=en" alt="oulaydi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oulaydi&" alt="oulaydi" /></p>
-
-<p align="right"> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><img src="https://komarev.com/ghpvc/?username=aysuarex&label=Profile%20views&color=0e75b6&style=flat" alt="aysuarex" /> </p>
