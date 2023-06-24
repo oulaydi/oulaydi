@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Git, GitHub, C, Shell Scripting, Vim ...**
 
-- 👨‍💻 All of my projects are available at [https://oulaydi.github.io/oulaydi-s-portfolio/](https://oulaydi.github.io/oulaydi-s-portfolio/)
+- 👨‍💻 Check my portfolio | Resume at [https://oulaydi.github.io/oulaydi-s-portfolio/](https://oulaydi.github.io/oulaydi-s-portfolio/)
 
-- 💬 Ask me about **C, HTML, Java**
+- 💬 Ask me about **C, Java ...**
 
 - 📫 How to reach me **oussama.oulaydi@gmail.com**
 
-- ⚡ Fun fact **!false is funny because it's true**
+- ⚡ Fun fact  **!false is funny because it's true**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
