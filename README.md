@@ -1,4 +1,4 @@
-![Aysuarex_banner]()
+![Aysuarex_banner](file:///C:/Users/hp/Downloads/Banni%C3%A8re%20LinkedIn%20Technologie%20Abstraite%20en%20Bleu%20et%20Blanc%20(3).png)
 
 <h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px"> I'm Oussma Oulaydi</h1>
 <h3 align="center">A passionate ALX software engineering Student from Morocco</h3>
