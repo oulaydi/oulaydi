@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png" alt="Aysuarex_banner" style="max-width: 100%;">
+<img src="[https://user-images.githubusercontent.com/99369085/189547193-992ed153-38b7-4814-8cba-4054cdb382ea.png](https://www.canva.com/design/DAFdqmlfM6Q/jZlgYTdfkrgWDBsA6KK-rQ/edit)" alt="Aysuarex_banner" style="max-width: 100%;">
 <h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/raw/main/wave.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Oussma Oulaydi</h1>
 <h3 align="center">A passionate ALX software engineering Student from Morocco</h3>
 
