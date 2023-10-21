@@ -1,6 +1,7 @@
 ![Aysuarex_banner](https://github.com/oulaydi/oulaydi/assets/130802700/900af5d1-600c-4bd4-893c-33930ee27fc9)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1500&color=44A0F7&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hi+I'm+Oussma+Oulaydi;A+passionate+software+engineering+student." alt="Typing SVG" /></a>
+<h1 align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px"> I'm Oussma Oulaydi</h1>
+<h3 align="center">A passionate ALX software engineering Student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oulaydi&label=Profile%20views&color=0e75b6&style=flat" alt="oulaydi" /> </p>
 
