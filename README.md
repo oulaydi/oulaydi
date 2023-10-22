@@ -1,4 +1,4 @@
-![Aysuarex_banner](https://github.com/oulaydi/oulaydi/assets/130802700/900af5d1-600c-4bd4-893c-33930ee27fc9)
+![Oussama Oulaydi](https://github.com/oulaydi/oulaydi/assets/130802700/900af5d1-600c-4bd4-893c-33930ee27fc9)
 
 <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px">
 
