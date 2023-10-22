@@ -1,6 +1,6 @@
 ![Oussama Oulaydi](https://github.com/oulaydi/oulaydi/assets/130802700/900af5d1-600c-4bd4-893c-33930ee27fc9)
 
-## Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px"> I'm Oussma Oulaydi
+<p>Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px"> I'm Oussma Oulaydi</p>
 <h3 align="center">A passionate ALX software engineering Student from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oulaydi&label=Profile%20views&color=0e75b6&style=flat" alt="oulaydi" /> </p>
