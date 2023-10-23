@@ -8,20 +8,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  - 🌱 I’m currently learning **Git, GitHub, C, Shell Scripting, Vim ...**
+  - 🌱 I’m currently learning <b>Git, GitHub, C, Shell Scripting, Vim ...</b>
 </p>
 
 <p align="left">
-
-- 👨‍💻 Check my portfolio | Resume at [https://oulaydi.github.io/oulaydi-s-portfolio/](https://oulaydi.github.io/oulaydi-s-portfolio/)
+    - 👨‍💻 Check my portfolio | Resume at [https://oulaydi.github.io/oulaydi-s-portfolio/](https://oulaydi.github.io/oulaydi-s-portfolio/)
 </p>
 
 <p align="left">
-    - 💬 Ask me about **Anything ...**
+    - 💬 Ask me about <i>Anything ...</i>
 </p>
 
 <p align="left">
-  - ⚡ Fun fact **!false is funny because it's true**
+  - ⚡ Fun fact <b>!false is funny because it's true</b>
 </p>
 
 <p align="left">
