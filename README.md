@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-    - 👨‍💻 Check my portfolio | Resume at [https://oulaydi.github.io/oulaydi-s-portfolio/](https://oulaydi.github.io/oulaydi-s-portfolio/)
+    - 👨‍💻 Check my portfolio | Resume at <b>https://oulaydi.github.io/oulaydi-s-portfolio/</b>
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 </p>
 
 <p align="left">
-  - ⚡ Fun fact <b>!false is funny because it's true</b>
+  - ⚡ Fun fact <b>!false is funny because it's true.</b>
 </p>
 
 <p align="left">
