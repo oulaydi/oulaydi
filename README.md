@@ -1,11 +1,7 @@
 ![Oussama Oulaydi](https://github.com/oulaydi/oulaydi/assets/130802700/900af5d1-600c-4bd4-893c-33930ee27fc9)
 
 <p align="center">
- <h2 align="center">GitHub Readme Stats</h2>
-</p>
-
-<p align="center">
-  <h2 align="center">Hi I'm Oussma Oulaydi</h1>
+  <h2 align="center">Hi <img src="wave.gif"> I'm Oussma Oulaydi</h1>
 </p>
 
 <p align="center">
@@ -72,4 +68,3 @@
 </table><br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
