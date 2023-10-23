@@ -59,14 +59,14 @@
 <table>
   <tr>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oulaydi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oulaydi&show_icons=true&locale=en&layout=compact" alt="Github stats" />
       </td>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=oulaydi&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=oulaydi&show_icons=true&locale=en" alt="Github stats" />
   </td>
     <td>
 <br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oulaydi&theme=dark&hide_border=false" alt="Github stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oulaydi&" alt="Github stats" />
  </td>
   </tr>
 </table><br/>
