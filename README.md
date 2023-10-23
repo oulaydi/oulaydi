@@ -39,8 +39,18 @@
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 </p>
 
+<hr>
 
+## 🚀 Skills & Technology
 
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="BASH"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
 <hr>
 
@@ -49,26 +59,16 @@
 <table>
   <tr>
     <td>
-       <img align="left" src="https://github-readme-stats.vercel.app/api?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="Github stats" />
+       <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oulaydi&show_icons=true&locale=en&layout=compact" alt="Github stats" />
       </td>
     <td>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victormoreiraofc&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=oulaydi&show_icons=true&locale=en" alt="Github stats" />
   </td>
     <td>
 <br/>
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false" alt="Github stats" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=oulaydi&" alt="Github stats" />
  </td>
   </tr>
 </table><br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-
-
-
-
-
-
-
-
-
