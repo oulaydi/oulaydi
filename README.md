@@ -43,7 +43,7 @@
 
 ## 🚀 Skills & Technology
 
-[![My Skills](https://skillicons.dev/icons?i=github,c,linux,python,bash,cmd,git,php,html,css,bootsratp,mysql,vim,emacs,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,c,linux,python,bash,git,php,html,css,bootstrap,mysql,vim,emacs,vscode)](https://skillicons.dev)
 
 ## ⚙️ GitHub Analytics
 
