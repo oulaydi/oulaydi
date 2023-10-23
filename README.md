@@ -1,7 +1,7 @@
 ![Oussama Oulaydi](https://github.com/oulaydi/oulaydi/assets/130802700/900af5d1-600c-4bd4-893c-33930ee27fc9)
 
-<p align="center">Hi <img src="https://github.com/aysuarex/aysuarex/blob/main/wave.gif" width="30px"> I'm Oussma Oulaydi</p>
-<p align="center">A passionate ALX software engineering Student from Morocco</p>
+<p align="center"><h1>Hi <img src="wave.gif" width="30px"> I'm Oussma Oulaydi</h1></p>
+<p align="center"><h2>A passionate ALX software engineering Student from Morocco</h2></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oulaydi&label=Profile%20views&color=0e75b6&style=flat" alt="oulaydi" /> </p>
 
@@ -63,3 +63,4 @@
 </table><br/>
 
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
