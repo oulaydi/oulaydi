@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-    - 👨‍💻 Check my portfolio | Resume at <b>https://oulaydi.github.io/oulaydi-s-portfolio/</b>
+    - 👨‍💻 Check my portfolio | Resume at <b>https://oussama-oulaydis.onrender.com/</b>
 </p>
 
 <p align="left">
