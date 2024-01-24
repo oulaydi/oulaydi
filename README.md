@@ -15,7 +15,7 @@
 </p>
 
 <p align="left">
-    - 👨‍💻 Check my portfolio | Resume at <b>https://oussama-oulaydis.onrender.com/</b>
+    - 👨‍💻 Check my portfolio | Resume at <b>https://repulsive-threads-slug.cyclic.app</b>
 </p>
 
 <p align="left">
